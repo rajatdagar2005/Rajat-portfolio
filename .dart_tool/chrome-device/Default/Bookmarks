@@ -1,0 +1,105 @@
+{
+   "checksum": "d9b300affe74c84d5bd131314ad60d76",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13397921642526141",
+            "date_last_used": "0",
+            "guid": "58592b86-d462-4b25-bbb8-b305d8639c67",
+            "id": "13",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13365475322353778",
+               "date_last_used": "0",
+               "guid": "2c20afc9-19b4-4bf6-9938-46e9f41aad1f",
+               "id": "8",
+               "name": "Dell Auction",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.dellauction.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13365475322369410",
+               "date_last_used": "0",
+               "guid": "7a4feb50-8b9f-4ee2-97c0-e41af0d857a7",
+               "id": "9",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www1.ap.dell.com/content/default.aspx?c=in&l=en&s=gen",
+               "visit_count": 0
+            }, {
+               "date_added": "13365475322369410",
+               "date_last_used": "0",
+               "guid": "ceab2bcc-abaa-4b69-8a56-f3182a358ad1",
+               "id": "10",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.dell.com/support/home",
+               "visit_count": 0
+            } ],
+            "date_added": "13365432140189458",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "3d22c054-2da1-4c75-87db-327c3cbe2b2c",
+            "id": "7",
+            "name": "Dell",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13397907420523159",
+            "date_last_used": "0",
+            "guid": "29f7cb9a-5100-41b4-ae62-0c1795edcb3d",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13397907420274699",
+         "date_last_used": "0",
+         "date_modified": "13397921642526141",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13397907420274699",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13397907420274699",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCG1jlkGYAQAAEgAqGHFIWm1IZ3pJc0xOcE81bXFMbk5DUHc9PUgDoAYMEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGU1YjI2Y2UzLTEzMDAtNTczZC1iM2NiLWZkYzEyMjRkOGQyNBgAIAAoADD46f2IizI4su79iIsyQLLu/YiLMkoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKsAQgHEqcBChx6SGtNWTZ6SjFoekYrT3lGRVZjSDRIOW9TcVE9EiQzZDIyYzA1NC0yZGExLTRjNzUtODdkYi0zMjdjM2NiZTJiMmMYACAAKAAw+5f+iIsyONmg/oiLMkDZoP6IizJKHFJyZ1lxMG52SDNyakRqaDZKRy9QdHNZVjZ0ND1aHiIcZnpqMkd2U3ZsS2hUQzRHMGtNakNtV2V1Y1E4PWUAAAAAwj4CYAASrAEICRKnAQocNDhyVVAwOVIzSVpMTUpKRGd3VUNBS3p3STRZPRIkN2E0ZmViNTAtOGI5Zi00ZWUyLTk3YzAtZTQxYWYwZDg1N2E3GAAgACgAMP2X/oiLMjiLof6IizJAi6H+iIsyShxjLy9ndEVQMnRkWEp3UFFmOWoyd0JubmpucGM9Wh4iHG1FK3JROWp2dTliR0RPdTJGeDYrOCtJZ2lucz1lAAAAAMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDE0OWJkYWNmLTQ4NzgtNTQ0Mi1hM2MxLTQzNDY3ODllMjA0YRgAIAAoADDy6f2IizI40u39iIsyQNLt/YiLMkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgIEqcBChx5L1NFUEZqSVNnN2RLbG0zTGlaMGZQM1djajA9EiQyYzIwYWZjOS0xOWI0LTRiZjYtOTkzOC00NmU5ZjQxYWFkMWYYACAAKAAw/Jf+iIsyOPKg/oiLMkDyoP6IizJKHG94UWE4UHBxYlZoMVc4c1Fqejc0NGs4WXZxUT1aHiIcM0lFTlRLdjY1aFg3d2l6N3JvWXNVTUJ2YVY0PWUAAAAAwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMmFiNWQyMjUtMDY5NS01NzU5LTg0MjItN2E2ZjcxODc5MjYxGAAgACgAMPPp/YiLMjjp7f2IizJA6e39iIsyShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEqwBCAoSpwEKHDJMcVVqenFDbk14YXAzWG0rRDNkSTdnVkJZWT0SJGNlYWIyYmNjLWFiYWEtNGI2OS04YTU2LWYzMTgyYTM1OGFkMRgAIAAoADD+l/6IizI4pqH+iIsyQKah/oiLMkocdVQyUm9QZDQ4VXdDa083d2ZNUDhkU25xZC9rPVoeIhx5Y2V2dVRxYlhsajhRRjVtbHNVRGRJc2hNK2c9ZQAAAADCPgJgBTAAOAA=",
+   "version": 1
+}
