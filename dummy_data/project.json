@@ -1,0 +1,54 @@
+[
+  {
+    "title": "DailyPress",
+    "description": "DailyPress is a Flutter-based news app that fetches breaking and trending news using NewsAPI. It features category-wise browsing, image caching, and smooth navigation with a clean UI.",
+    "imageUrl":[ "https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.41.46_b3d40b38.jpg\n","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.43.08_9f7c2b19.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.43.43_d64b719d.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.44.21_2c0a0a3f.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.44.56_e781c383.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.45.38_bf8f0186.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.46.20_b745ed27.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.46.55_c68cea17.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.47.24_46877bf8.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.48.07_8a065a52.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.49.59_71485423.jpg"],
+    "tags": ["Flutter", "NewsAPI", "Mobile App"],
+    "projectUrl": "https://github.com/rajatdagar2005/DailyPress"
+  },
+  { 
+    "title": "MyWeatherApp",
+    "description": " A Weather App built using Kotlin and Jetpack Compose, following MVVM architecture. It integrates with a weather API using Retrofit 2, leverages sealed classes, handles errors with try-catch and coroutines.",
+    "imageUrl": ["https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/WeatherAppImages/WhatsApp%20Image%202025-07-21%20at%2015.55.48_48217b03.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/WeatherAppImages/WhatsApp%20Image%202025-07-21%20at%2015.56.31_b968237c.jpg"],
+    "tags": ["Kotlin", "Jetpack Compose", "Retrofit", "MVVM","API"],
+    "projectUrl": "https://github.com/rajatdagar2005/MyWeatherApp"
+  },
+  {
+    "title": "FaceDetection",
+    "description": "An Android Face Detection App built using ML Kit (Google’s Machine Learning API), Jetpack Compose, and Kotlin. The app captures an image using camera, detects faces, and provides details like bounding boxes.",
+    "imageUrl": ["https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/FaceDetectionImages/WhatsApp%20Image%202025-07-21%20at%2016.00.46_c4255ab0.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/FaceDetectionImages/WhatsApp%20Image%202025-07-21%20at%2016.00.47_b62abfcc.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/FaceDetectionImages/WhatsApp%20Image%202025-07-21%20at%2016.01.20_57bd7172.jpg"],
+    "tags": ["Kotlin", "ML Kit", "Jetpack Compose", "Android"],
+    "projectUrl": "https://github.com/rajatdagar2005/FaceDetection"
+  },
+  {
+    "title": "MyShoppingListApp",
+    "description": " A simple shopping list app built using Kotlin and Jetpack Compose. Easily add, edit, and delete items from your list with a smooth and minimal UI.",
+    "imageUrl": [""],
+    "tags": ["Kotlin", "Jetpack Compose", "State Management"],
+    "projectUrl": "https://github.com/rajatdagar2005/MyShoppingListApp"
+  },
+  {
+    "title": "MyWishListApp",
+    "description": "A Wishlist App built using Kotlin and Jetpack Compose, with Room Database (SQLite) for local storage. This app allows users to add, update, and delete wishlist items, featuring modern UI design.",
+    "imageUrl": ["https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/WishListImages/WhatsApp%20Image%202025-07-24%20at%2020.49.24_68f2c13c.jpg",
+      "https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/WishListImages/WhatsApp%20Image%202025-07-24%20at%2020.49.24_9081a2d3.jpg",
+      "https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/WishListImages/WhatsApp%20Image%202025-07-24%20at%2020.49.25_6a35c96e.jpg",
+      "https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/WishListImages/WhatsApp%20Image%202025-07-24%20at%2020.49.26_ff5b448a.jpg"],
+    "tags": ["Kotlin", "Jetpack Compose", "Room", "SQLite"],
+    "projectUrl": "https://github.com/rajatdagar2005/MyWishListApp"
+  },
+  {
+    "title": "MyRecipeApp",
+    "description": "A Kotlin + Jetpack Compose application that fetches and displays recipe data from the internet using APIs. It follows modern Android development practices and implements key features.",
+    "imageUrl": ["https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/RecipeAppImages/WhatsApp%20Image%202025-07-21%20at%2016.10.39_b0bbac18.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/RecipeAppImages/WhatsApp%20Image%202025-07-21%20at%2016.10.51_43d5007f.jpg","https://raw.githubusercontent.com/rajatdagar2005/MyPortfolioAssets/main/ImagesForPortfolio/RecipeAppImages/WhatsApp%20Image%202025-07-21%20at%2016.11.19_6a6427cc.jpg"],
+    "tags": ["Kotlin", "Jetpack Compose", "API", "Recipes"],
+    "projectUrl": "https://github.com/rajatdagar2005/MyRecipeApp"
+  },
+  {
+    "title": "UnitConverter",
+    "description": "This is a unit converter app made in Kotlin. It was my first app development project. It helps in converting units from one to another like length, weight, temperature, etc.",
+    "imageUrl": [""],
+    "tags": ["Kotlin", "Jetpack Compose", "Beginner Project"],
+    "projectUrl": "https://github.com/rajatdagar2005/UnitConverter"
+  }
+]
