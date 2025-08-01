@@ -46,9 +46,14 @@ fun Application.module() {
     configureRouting2(experienceDataSource)
     configureRouting3(projectDataSource)
 
-    // ✅ ADD THIS BLOCK AT THE END OF module()
     routing {
-        staticResources("/", "static")
+        // ✅ HEALTH CHECK ROUTE
+        get("/") {
+            call.respondText("✅ Ktor backend is running!", ContentType.Text.Plain)
+        }
+
+        // ✅ STATIC RESOURCES (if any)
+        staticResources("/static", "static")
     }
 
 }
