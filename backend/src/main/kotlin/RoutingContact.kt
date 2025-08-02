@@ -31,7 +31,7 @@ fun Application.configureRouting1(contactDataSource: ContactDataSource) {
             call.respond(mapOf("success" to resultList.all { it } ))
 
         }
-        get("contact") {
+        get("/contact") {
             val contacts = contactDataSource.getAllContacts()
             call.respond(contacts)
         }

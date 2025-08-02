@@ -26,7 +26,7 @@ fun Application.configureRouting2(experienceDataSource: ExperienceDataSource) {
             call.respond(mapOf("success" to result))
 
         }
-        get("experience") {
+        get("/experience") {
             val experiences = experienceDataSource.getAllExperiences()
             call.respond(experiences)
         }

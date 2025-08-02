@@ -27,7 +27,7 @@ fun Application.configureRouting3(projectDataSource: ProjectDataSource) {
             val result = projectDataSource.insertMultipleProject(projects)
             call.respond(mapOf("success" to result))
         }
-        get("project") {
+        get("/project") {
             val projects = projectDataSource.getAllProjects()
             call.respond(projects)
         }
