@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/project.dart';
 
 class ProjectService {
-  final String _baseUrl = 'http://192.168.1.6:8080'; // Ktor backend
+  final String _baseUrl = 'https://rajat-portfolio-xzsa.onrender.com'; // Ktor backend
 
   // http://192.168.1.6:8080/project
 

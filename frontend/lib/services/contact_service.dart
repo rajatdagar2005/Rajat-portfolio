@@ -4,8 +4,8 @@ import '../models/contact_model.dart';
 
 class ContactService {
   static Future<ContactModel?> fetchContact() async {
-    try {
-      final response = await http.get(Uri.parse("http://localhost:8080/contact"));
+    try { //https://rajat-portfolio-xzsa.onrender.com
+      final response = await http.get(Uri.parse("https://rajat-portfolio-xzsa.onrender.com/contact"));
       if (response.statusCode == 200) {
         final List<dynamic> jsonData = jsonDecode(response.body);
         return ContactModel.fromJson(jsonData[0]); // since it's a list with one item
