@@ -4,18 +4,18 @@ FROM openjdk:17-jdk-slim as build
 WORKDIR /app
 
 # Copy Gradle wrapper and project files
-COPY gradlew ./
+COPY gradlew ./gradlew
 COPY gradle ./gradle
 COPY build.gradle.kts settings.gradle.kts ./
+
+# ✅ Ensure gradlew has proper permissions
+RUN chmod +x gradlew
 
 # Copy the rest of the backend source code
 COPY . .
 
-# Give execute permission to gradlew (important!)
-RUN chmod +x gradlew
-
-# Build the Ktor app
-RUN ./gradlew installDist
+# ✅ Run gradlew with bash to avoid shell issues
+RUN bash ./gradlew installDist
 
 # Final stage: smaller runtime image
 FROM openjdk:17-jdk-slim
