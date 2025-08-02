@@ -143,7 +143,7 @@ class _HeroSectionState extends State<HeroSection> {
                                   // Download Resume Button
                                   GestureDetector(
                                     onTap: () async {
-                                      const url = 'assets/resume.pdf'; // OR host it publicly (e.g., GitHub Pages or Firebase)
+                                      const url = 'https://raw.githubusercontent.com/rajatdagar2005/Rajat-portfolio/main/frontend/assets/resume.pdf'; // OR host it publicly (e.g., GitHub Pages or Firebase)
                                       final uri = Uri.parse(url);
                                       if (!await launchUrl(uri, webOnlyWindowName: "_blank")) {
                                         throw 'Could not launch resume';
